@@ -1,0 +1,1 @@
+cmd_/home/book/dve_src/100ask_imx6ull_src_bin/100ask_led.ko := arm-buildroot-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/dve_src/100ask_imx6ull_src_bin/100ask_led.ko /home/book/dve_src/100ask_imx6ull_src_bin/100ask_led.o /home/book/dve_src/100ask_imx6ull_src_bin/100ask_led.mod.o ;  true

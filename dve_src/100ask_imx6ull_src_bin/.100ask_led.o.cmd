@@ -1,0 +1,1 @@
+cmd_/home/book/dve_src/100ask_imx6ull_src_bin/100ask_led.o := arm-buildroot-linux-gnueabihf-ld -EL    -r -o /home/book/dve_src/100ask_imx6ull_src_bin/100ask_led.o /home/book/dve_src/100ask_imx6ull_src_bin/leddrv.o /home/book/dve_src/100ask_imx6ull_src_bin/board_100ask_imx6ull.o 
